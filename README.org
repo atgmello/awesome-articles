@@ -1,0 +1,144 @@
+#+TITLE: Resources
+
+* Programming
+** General
+[[https://www.tomdalling.com/blog/software-design/fizzbuzz-in-too-much-detail/][FizzBuzz in too much detail]]
+[[https://twitter.com/Conaw/status/1206036267185500161][100 opinions on programming]]
+[[https://refactoring.guru/pt-br/design-patterns/python][Design Patterns]]
+[[https://medium.com/cracking-the-data-science-interview/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710][The 10 Operating System Concepts Software Developers Need to Remember]]
+
+** Git
+[[https://stackoverflow.com/questions/40551486/duplicate-commits-after-rebase-have-been-merged-into-the-develop-branch][Never rebase at Master]]
+
+** Functional Programming
+[[https://kentcdodds.com/blog/classes-complexity-and-functional-programming][Complexity and Functional Programming]]
+[[https://youtu.be/E8I19uA-wGY][Functional programming design patterns by Scott Wlaschin
+]][[https://www.oreilly.com/library/view/functional-programming-in/9781617290657/][Functional Programming in Scala]]
+[[https://yardsale8.github.io/stat489_book/index.html][An Introduction to Functional Programming, Lazy Evaluation, and Streams in Python]]
+[[https://medium.com/building-nubank/introducing-fklearn-nubanks-machine-learning-library-part-i-2a1c781035d0][fklearn]]
+[[http://sixty-north.com/blog/series/understanding-transducers-through-python][Understanding Transducers Through Python]]
+[[https://eli.thegreenplace.net/2017/right-and-left-folds-primitive-recursion-patterns-in-python-and-haskell/][Right and left folds, primitive recursion patterns in Python and Haskell]]
+[[https://softwareengineering.stackexchange.com/questions/329348/classes-vs-modules-in-python][Classes vs Modules]]
+[[https://fsharpforfunandprofit.com/ddd/][Domain Driven Design]]
+[[https://youtu.be/vK1DazRK_a0][Solving Problems the Clojure Way - Rafal Dittwald]]
+[[https://www.reddit.com/r/ProgrammerHumor/comments/418x95/theory_vs_reality/][OOP Theory vs Reality]]
+[[http://www.smashcompany.com/technology/object-oriented-programming-is-an-expensive-disaster-which-must-end][Object Oriented Programming is an expensive disaster which must end]]
+[[https://medium.com/better-programming/object-oriented-programming-the-trillion-dollar-disaster-92a4b666c7c7][Object-Oriented Programming - The Trillion Dollar Disaster]]
+[[https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53][Goodbye, Object Oriented Programming]]
+[[https://medium.com/free-code-camp/functional-programming-patterns-cookbook-3a0dfe2d7e0a][Functional Programming Patterns Cookbook (JavaScript)]]
+
+** Distributed Systems
+[[https://thenewstack.io/how-to-diminish-the-inevitable-failure-of-distributed-systems/][How to Diminish the Inevitable Failure of Distributed Systems]]
+[[https://dataintensive.net/][Designing Data-Intensive Applications]]
+[[http://book.mixu.net/distsys/][Distributed Systems for Fun and For Profit]]
+
+** Python
+[[https://python-poetry.org/][Poetry]]
+[[https://www.udemy.com/course/deployment-of-machine-learning-models/?start=0][Deployment of Machine Learning Models]]
+[[https://beapython.dev/2020/05/14/is-recursion-bad-in-python/][Is Recursion Bad In Python?]]
+
+** Clojure
+[[https://lispcast.com/clojure-and-types/][Clojure and types]]
+[[https://guide.clojure.style/][Clojure Style Guide]]
+[[https://github.com/zero-one-group/geni][Geni - Clojure Dataframes]]
+[[http://gorillalabs.github.io/sparkling/][Sparkling - Clojure + Spark]]
+[[https://github.com/vlaaad/reveal][Reveal: Read Eval Visualize Loop for Clojure]]
+[[https://github.com/drewnoff/openintro-gorilla-incanter][Intro to Data Science in Clojure with Incanter and Gorilla REPL]]
+[[https://jstaffans.github.io/posts/2017-11-14-clojure-data-science.html][A whiff of data science in Clojure]]
+
+** Swift
+[[https://www.fast.ai/2019/01/10/swift-numerics/][Swift Numerics]]
+
+** Databases
+[[https://alekcz.gitbook.io/datahike-tuts/appendix/videos-to-worth-watching][Datahike]]
+
+** Web
+[[https://www.netlify.com/][Netlify]]
+[[https://600000.ml/post/building_blog_with_hugo_emacs_netlify/][Running a Blog with Hugo, Emacs, and Netlify]]
+
+** Funny
+[[http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html][A Brief, Incomplete, and Mostly Wrong History of Programming Languages]]
+
+* Data Science
+** General
+[[https://www.newyorker.com/magazine/2020/10/05/how-does-science-really-work][How does science really work]]
+[[https://youtu.be/uuoZ3becbXU][How to write a great research paper]]
+[[https://www.deepdyve.com/lp/springer-journals/from-astronomy-to-data-science-dJQ7A9ucii][From Astronomy to Data Science]]
+[[https://datasetsearch.research.google.com/][Google's Datasetsearch]]
+[[https://github.com/kojino/120-Data-Science-Interview-Questions][120 Data Science Interview Questions]]
+[[https://github.com/alexeygrigorev/data-science-interviews][Data Science Interviews]]
+[[https://medium.com/liv-up-inside-the-kitchen/a-brief-history-of-liv-up-data-platform-5ac403644c1c][A Brief History of Liv Up’s Data Platform]]
+
+** MLOps
+[[https://martinfowler.com/articles/cd4ml.html][CD4ML]]
+[[https://ml-ops.org/][MLOps]]
+[[https://ml-ops.org/content/end-to-end-ml-workflow][End to end ML workflow]]
+[[https://medium.com/weareservian/the-cheesy-analogy-of-mlflow-and-kubeflow-715a45580fbe][MLFlow vs Kubeflow]]
+[[https://www.intel.com/content/www/us/en/intel-capital/news/story.html?id=a0F1I00000BNTXPUA5#/type=All/page=0/term=/tags=][Demystifying the AI Infrastructure Stack]]
+[[https://www.youtube.com/watch?v=rf8yBHsDOj4&list=PLTU89LAWKRwEdiDKeMOU2ye6yU9Qd4MRo][Introduction to data pipelines and Kedro]]
+
+** Viz
+[[https://github.com/streamlit/streamlit][Streamlit]]
+[[https://redash.io/][Redash]]
+ [[https://redash.io/help/user-guide/querying/query-filters][Redash Query Filters]]
+ [[https://redash.io/help/user-guide/querying/query-parameters][Redash Query Parameters]]
+[[https://www.metabase.com/][Metabase]]
+ [[https://www.metabase.com/docs/latest/users-guide/13-sql-parameters.html][Metabase Query Parameters]]
+ [[https://www.metabase.com/docs/latest/users-guide/08-dashboard-filters.html][Metabase Filters]]
+[[https://superset.incubator.apache.org/][Apache Superset]]
+[[https://dash.plotly.com/][Plotly Dash]]
+[[https://medium.com/@eponkratova/iframe-src-open-source-embedded-analytics-for-saas-iframe-224a66e9b006][Open Source Embedded Analytics]]
+
+** Database
+[[https://www.youtube.com/watch?v=W2Z7fbCLSTw][7 Database Paradigms]]
+[[https://opendistro.github.io/for-elasticsearch/][Open Distro for Elasticsearch]]
+[[https://malike.github.io/OLAP-Cube-With-Elasticsearch.html][OLAP cube with Elasticsearch]]
+
+** Functional
+[[https://medium.com/building-nubank/introducing-fklearn-nubanks-machine-learning-library-part-i-2a1c781035d0][fklearn]]
+
+** DS4A
+[[https://neofeed.com.br/blog/home/no-softbank-a-aposta-em-inteligencia-artificial-comeca-na-base/][Matéria DS4A]]
+
+** Models
+[[https://www.jstor.org/stable/2584334?seq=1][Estimating a Markov Transition Matrix from Observational Data]]
+[[https://www.datacamp.com/community/tutorials/markov-chains-python-tutorial][Markov Chains in Python]]
+[[https://christophergs.com/python/2018/03/25/python-concurrent-futures/][Python Concurrent Futures]]
+
+* Data Engineering
+** General
+[[https://medium.com/ssense-tech/principled-data-engineering-part-i-architectural-overview-6d4bdf89b657][Principled Data Engineering, Part I: Architectural Overview]]
+[[https://www.altexsoft.com/blog/datascience/what-is-data-engineering-explaining-data-pipeline-data-warehouse-and-data-engineer-role/][What is Data Engineering: Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role]]
+
+** Google Certification
+[[https://app.lucidchart.com/lucidchart/0ca44a63-4ea4-4d78-8367-2465512d21be/view?page=5CetVcvv3YSZ#][Data Dossier - Cheat Sheet from Linux Academy]]
+[[https://cloud.google.com/certification/sample-questions/data-engineer][Sample questions]]
+
+* Emacs
+[[https://caiorss.github.io/Emacs-Elisp-Programming/Keybindings.html#sec-2][Cheatsheet]]
+[[https://medium.com/better-programming/15-reasons-why-i-use-emacs-with-gifs-5b03c6608b61][15 Reasons Why I Use Emacs, With GIFs]]
+[[https://hadi.timachi.com/2019/12/07/Why_I_switched_from_VScode_to_Emacs][Why I switched from VSCode to Emacs]]
+[[https://tecosaur.github.io/emacs-config/config.html][Why Emacs]]
+[[https://emacs.stackexchange.com/questions/9696/how-do-you-create-a-robust-python-ide-with-emacs-as-the-text-editor][How do you create a robust Python IDE with Emacs (as the Text editor)]]
+[[http://emacslife.com/baby-steps-org.html#org63c0a18][A Baby Steps Guide to Managing Your Tasks with Org]]
+[[https://blog.aaronbieber.com/2016/09/24/an-agenda-for-life-with-org-mode.html][An agenda for life with Org mode]]
+[[https://opensource.com/article/18/4/how-create-latex-documents-emacs][How to create LaTeX documents in Emacs]]
+[[https://github.com/fniessen/refcard-org-beamer][Org Beamer Reference]]
+[[https://tecosaur.github.io/emacs-config/config.html][Awesome Doom Emacs config]]
+** Jupyter
+- [[https://martinralbrecht.wordpress.com/2020/08/23/conda-jupyter-and-emacs/][Conda, Jupyter and Emacs]]
+  - [[https://www.reddit.com/r/emacs/comments/if37r1/conda_jupyter_and_emacs_my_setup/][Reddit discussion]]
+- [[https://rgoswami.me/posts/jupyter-orgmode/][Replacing Jupyter with Orgmode]]
+  - [[https://www.reddit.com/r/orgmode/comments/frlgkh/replacing_jupyter_with_orgmode/][Reddit discussion]]
+- [[https://www.reddit.com/r/emacs/comments/hk4fps/any_emacs_ipython_notebook_ein_users_willing_to/][Any Emacs Ipython Notebook (EIN) users willing to share secrets?]]
+- [[https://www.reddit.com/r/emacs/comments/i5xagf/ein_or_emacsjupyter_users_here/][ein or emacsjupyter users here?]]
+
+* Linux
+[[https://askubuntu.com/questions/5980/how-do-i-free-up-disk-space][How do I free up disk space]]
+
+* Life
+[[https://www.nytimes.com/2008/02/26/science/26tier.html][The Advantages of Closing a Few Doors]]
+
+* Etc
+** Useful/cool Software
+[[https://github.com/ventoy/Ventoy][Ventoy - Bootable USB]]
