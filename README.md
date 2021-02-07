@@ -1,43 +1,43 @@
 
 # Table of Contents
 
-1.  [Programming](#org5e3e1d3)
-    1.  [General](#orgfca0db1)
-    2.  [Git](#orge6854de)
-    3.  [Functional Programming](#org4100a08)
-    4.  [Distributed Systems](#org91dbd09)
-    5.  [Python](#org58fd7a8)
-    6.  [Clojure](#org9f7e3c8)
-    7.  [Swift](#org2d2f3a6)
-    8.  [Databases](#org742001f)
-    9.  [Web](#orge7a88de)
-    10. [Funny](#org27006d9)
-2.  [Data Science](#org813fbba)
-    1.  [General](#orgc9eb60b)
-    2.  [MLOps](#org0e91f01)
-    3.  [Viz](#orgb7b85ec)
-    4.  [Database](#org538f3c2)
-    5.  [Functional](#org0abdc48)
-    6.  [DS4A](#org8338a9a)
-    7.  [Models](#orge310b6d)
-3.  [Data Engineering](#orgb25d8e2)
-    1.  [General](#orgc67371e)
-    2.  [Google Certification](#org3574c69)
-4.  [Emacs](#org5904d92)
-    1.  [Jupyter](#org7b5406e)
-5.  [Linux](#org17927b6)
-6.  [Life](#orgb0ac523)
-7.  [Etc](#org82ae468)
-    1.  [Useful/cool Software](#org3199b44)
+1.  [Programming](#org83330a2)
+    1.  [General](#org88f83e2)
+    2.  [Git](#org11d7756)
+    3.  [Functional Programming](#orgd9e1ebe)
+    4.  [Distributed Systems](#orgcb4ed7e)
+    5.  [Python](#org6d6aba6)
+    6.  [Clojure](#org7caaee1)
+    7.  [Swift](#orge383204)
+    8.  [Databases](#org5b82bdb)
+    9.  [Web](#org7e029b5)
+    10. [Funny](#orge219fb8)
+2.  [Data Science](#orgfa080b4)
+    1.  [General](#org0191887)
+    2.  [MLOps](#org4d2161c)
+    3.  [Viz](#org6e2e07e)
+    4.  [Database](#org427d1d3)
+    5.  [Functional](#orgd9cbbaa)
+    6.  [DS4A](#org37b17b5)
+    7.  [Models](#org816a74d)
+3.  [Data Engineering](#orga335f25)
+    1.  [General](#orgbf41222)
+    2.  [Google Certification](#org5e03b5e)
+4.  [Emacs](#orgfce7dbe)
+    1.  [Jupyter](#org349df19)
+5.  [Linux](#org67b5bce)
+6.  [Life](#org17a2d7f)
+7.  [Etc](#org17994bc)
+    1.  [Useful/cool Software](#orgf7f256d)
 
 
 
-<a id="org5e3e1d3"></a>
+<a id="org83330a2"></a>
 
 # Programming
 
 
-<a id="orgfca0db1"></a>
+<a id="org88f83e2"></a>
 
 ## General
 
@@ -47,14 +47,14 @@
 -   [The 10 Operating System Concepts Software Developers Need to Remember](https://medium.com/cracking-the-data-science-interview/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710)
 
 
-<a id="orge6854de"></a>
+<a id="org11d7756"></a>
 
 ## Git
 
 -   [Never rebase at Master](https://stackoverflow.com/questions/40551486/duplicate-commits-after-rebase-have-been-merged-into-the-develop-branch)
 
 
-<a id="org4100a08"></a>
+<a id="orgd9e1ebe"></a>
 
 ## Functional Programming
 
@@ -75,7 +75,7 @@
 -   [fklearn](https://medium.com/building-nubank/introducing-fklearn-nubanks-machine-learning-library-part-i-2a1c781035d0)
 
 
-<a id="org91dbd09"></a>
+<a id="orgcb4ed7e"></a>
 
 ## Distributed Systems
 
@@ -84,7 +84,7 @@
 -   [Distributed Systems for Fun and For Profit](http://book.mixu.net/distsys/)
 
 
-<a id="org58fd7a8"></a>
+<a id="org6d6aba6"></a>
 
 ## Python
 
@@ -93,7 +93,7 @@
 -   [Is Recursion Bad In Python?](https://beapython.dev/2020/05/14/is-recursion-bad-in-python/)
 
 
-<a id="org9f7e3c8"></a>
+<a id="org7caaee1"></a>
 
 ## Clojure
 
@@ -106,21 +106,21 @@
 -   [A whiff of data science in Clojure](https://jstaffans.github.io/posts/2017-11-14-clojure-data-science.html)
 
 
-<a id="org2d2f3a6"></a>
+<a id="orge383204"></a>
 
 ## Swift
 
 -   [Swift Numerics](https://www.fast.ai/2019/01/10/swift-numerics/)
 
 
-<a id="org742001f"></a>
+<a id="org5b82bdb"></a>
 
 ## Databases
 
 -   [Datahike](https://alekcz.gitbook.io/datahike-tuts/appendix/videos-to-worth-watching)
 
 
-<a id="orge7a88de"></a>
+<a id="org7e029b5"></a>
 
 ## Web
 
@@ -128,19 +128,19 @@
 -   [Running a Blog with Hugo, Emacs, and Netlify](https://600000.ml/post/building_blog_with_hugo_emacs_netlify/)
 
 
-<a id="org27006d9"></a>
+<a id="orge219fb8"></a>
 
 ## Funny
 
 -   [A Brief, Incomplete, and Mostly Wrong History of Programming Languages](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
 
 
-<a id="org813fbba"></a>
+<a id="orgfa080b4"></a>
 
 # Data Science
 
 
-<a id="orgc9eb60b"></a>
+<a id="org0191887"></a>
 
 ## General
 
@@ -153,7 +153,7 @@
 -   [A Brief History of Liv Up’s Data Platform](https://medium.com/liv-up-inside-the-kitchen/a-brief-history-of-liv-up-data-platform-5ac403644c1c)
 
 
-<a id="org0e91f01"></a>
+<a id="org4d2161c"></a>
 
 ## MLOps
 
@@ -163,10 +163,9 @@
 -   [MLFlow vs Kubeflow](https://medium.com/weareservian/the-cheesy-analogy-of-mlflow-and-kubeflow-715a45580fbe)
 -   [Demystifying the AI Infrastructure Stack](https://www.intel.com/content/www/us/en/intel-capital/news/story.html?id=a0F1I00000BNTXPUA5#/type=All/page=0/term=/tags=)
 -   [Introduction to data pipelines and Kedro](https://www.youtube.com/watch?v=rf8yBHsDOj4&list=PLTU89LAWKRwEdiDKeMOU2ye6yU9Qd4MRo)
--   
 
 
-<a id="orgb7b85ec"></a>
+<a id="org6e2e07e"></a>
 
 ## Viz
 
@@ -182,7 +181,7 @@
 -   [Open Source Embedded Analytics](https://medium.com/@eponkratova/iframe-src-open-source-embedded-analytics-for-saas-iframe-224a66e9b006)
 
 
-<a id="org538f3c2"></a>
+<a id="org427d1d3"></a>
 
 ## Database
 
@@ -191,21 +190,21 @@
 -   [OLAP cube with Elasticsearch](https://malike.github.io/OLAP-Cube-With-Elasticsearch.html)
 
 
-<a id="org0abdc48"></a>
+<a id="orgd9cbbaa"></a>
 
 ## Functional
 
 -   [fklearn](https://medium.com/building-nubank/introducing-fklearn-nubanks-machine-learning-library-part-i-2a1c781035d0)
 
 
-<a id="org8338a9a"></a>
+<a id="org37b17b5"></a>
 
 ## DS4A
 
 -   [Matéria DS4A](https://neofeed.com.br/blog/home/no-softbank-a-aposta-em-inteligencia-artificial-comeca-na-base/)
 
 
-<a id="orge310b6d"></a>
+<a id="org816a74d"></a>
 
 ## Models
 
@@ -214,12 +213,12 @@
 -   [Python Concurrent Futures](https://christophergs.com/python/2018/03/25/python-concurrent-futures/)
 
 
-<a id="orgb25d8e2"></a>
+<a id="orga335f25"></a>
 
 # Data Engineering
 
 
-<a id="orgc67371e"></a>
+<a id="orgbf41222"></a>
 
 ## General
 
@@ -227,7 +226,7 @@
 -   [What is Data Engineering: Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role](https://www.altexsoft.com/blog/datascience/what-is-data-engineering-explaining-data-pipeline-data-warehouse-and-data-engineer-role/)
 
 
-<a id="org3574c69"></a>
+<a id="org5e03b5e"></a>
 
 ## Google Certification
 
@@ -235,7 +234,7 @@
 -   [Sample questions](https://cloud.google.com/certification/sample-questions/data-engineer)
 
 
-<a id="org5904d92"></a>
+<a id="orgfce7dbe"></a>
 
 # Emacs
 
@@ -251,7 +250,7 @@
 -   [Awesome Doom Emacs config](https://tecosaur.github.io/emacs-config/config.html)
 
 
-<a id="org7b5406e"></a>
+<a id="org349df19"></a>
 
 ## Jupyter
 
@@ -263,26 +262,26 @@
 -   [ein or emacsjupyter users here?](https://www.reddit.com/r/emacs/comments/i5xagf/ein_or_emacsjupyter_users_here/)
 
 
-<a id="org17927b6"></a>
+<a id="org67b5bce"></a>
 
 # Linux
 
 -   [How do I free up disk space](https://askubuntu.com/questions/5980/how-do-i-free-up-disk-space)
 
 
-<a id="orgb0ac523"></a>
+<a id="org17a2d7f"></a>
 
 # Life
 
 -   [The Advantages of Closing a Few Doors](https://www.nytimes.com/2008/02/26/science/26tier.html)
 
 
-<a id="org82ae468"></a>
+<a id="org17994bc"></a>
 
 # Etc
 
 
-<a id="org3199b44"></a>
+<a id="orgf7f256d"></a>
 
 ## Useful/cool Software
 

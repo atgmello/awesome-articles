@@ -76,7 +76,7 @@
 - [[https://medium.com/weareservian/the-cheesy-analogy-of-mlflow-and-kubeflow-715a45580fbe][MLFlow vs Kubeflow]]
 - [[https://www.intel.com/content/www/us/en/intel-capital/news/story.html?id=a0F1I00000BNTXPUA5#/type=All/page=0/term=/tags=][Demystifying the AI Infrastructure Stack]]
 - [[https://www.youtube.com/watch?v=rf8yBHsDOj4&list=PLTU89LAWKRwEdiDKeMOU2ye6yU9Qd4MRo][Introduction to data pipelines and Kedro]]
--
+
 ** Viz
 - [[https://github.com/streamlit/streamlit][Streamlit]]
 - [[https://redash.io/][Redash]]
