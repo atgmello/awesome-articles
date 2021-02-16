@@ -2,11 +2,17 @@
 
 * Programming
 ** General
+- [[https://calmcode.io/][Video tutorials for modern ideas and open source tools. Calmly.]]
+- [[https://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html][REPL Driven Design]]
 - [[https://www.tomdalling.com/blog/software-design/fizzbuzz-in-too-much-detail/][FizzBuzz in too much detail]]
 - [[https://twitter.com/Conaw/status/1206036267185500161][100 opinions on programming]]
 - [[https://refactoring.guru/pt-br/design-patterns/python][Design Patterns]]
 - [[https://medium.com/cracking-the-data-science-interview/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710][The 10 Operating System Concepts Software Developers Need to Remember]]
 
+** Generative Art
+- [[https://openframeworks.cc/][openFrameworks]]
+- [[https://www.chromatocosmos.com/shop][Chromatocosmos]]
+- [[https://www.generativehut.com/post/robots-and-generative-art-and-python-oh-my][Robots and Generative Art and Python, oh my!]]
 ** Git
 - [[https://stackoverflow.com/questions/40551486/duplicate-commits-after-rebase-have-been-merged-into-the-develop-branch][Never rebase at Master]]
 
@@ -31,6 +37,8 @@
 - [[https://thenewstack.io/how-to-diminish-the-inevitable-failure-of-distributed-systems/][How to Diminish the Inevitable Failure of Distributed Systems]]
 - [[https://dataintensive.net/][Designing Data-Intensive Applications]]
 - [[http://book.mixu.net/distsys/][Distributed Systems for Fun and For Profit]]
+- [[https://medium.com/@kavimaluskam/start-your-real-time-pipeline-with-apache-kafka-39e30129892a][Start your real-time pipeline with Apache Kafka]]
+- [[https://blog.cleancoder.com/uncle-bob/2014/10/01/CleanMicroserviceArchitecture.html][Clean Micro-service Architecture]]
 
 ** Python
 - [[https://python-poetry.org/][Poetry]]
@@ -58,9 +66,10 @@
 
 ** Funny
 - [[http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html][A Brief, Incomplete, and Mostly Wrong History of Programming Languages]]
-
-* Data Science
-** General
+* Data
+- [[https://mattturck.com/data2020/][Resilience and Vibrancy: The 2020 Data & AI Landscape]]
+** Data Science
+*** General
 - [[https://www.newyorker.com/magazine/2020/10/05/how-does-science-really-work][How does science really work]]
 - [[https://youtu.be/uuoZ3becbXU][How to write a great research paper]]
 - [[https://www.deepdyve.com/lp/springer-journals/from-astronomy-to-data-science-dJQ7A9ucii][From Astronomy to Data Science]]
@@ -69,7 +78,7 @@
 - [[https://github.com/alexeygrigorev/data-science-interviews][Data Science Interviews]]
 - [[https://medium.com/liv-up-inside-the-kitchen/a-brief-history-of-liv-up-data-platform-5ac403644c1c][A Brief History of Liv Up’s Data Platform]]
 
-** MLOps
+*** MLOps
 - [[https://martinfowler.com/articles/cd4ml.html][CD4ML]]
 - [[https://ml-ops.org/][MLOps]]
 - [[https://ml-ops.org/content/end-to-end-ml-workflow][End to end ML workflow]]
@@ -77,7 +86,7 @@
 - [[https://www.intel.com/content/www/us/en/intel-capital/news/story.html?id=a0F1I00000BNTXPUA5#/type=All/page=0/term=/tags=][Demystifying the AI Infrastructure Stack]]
 - [[https://www.youtube.com/watch?v=rf8yBHsDOj4&list=PLTU89LAWKRwEdiDKeMOU2ye6yU9Qd4MRo][Introduction to data pipelines and Kedro]]
 
-** Viz
+*** Viz
 - [[https://github.com/streamlit/streamlit][Streamlit]]
 - [[https://redash.io/][Redash]]
   + [[https://redash.io/help/user-guide/querying/query-filters][Redash Query Filters]]
@@ -89,28 +98,32 @@
 - [[https://dash.plotly.com/][Plotly Dash]]
 - [[https://medium.com/@eponkratova/iframe-src-open-source-embedded-analytics-for-saas-iframe-224a66e9b006][Open Source Embedded Analytics]]
 
-** Database
+*** Database
 - [[https://www.youtube.com/watch?v=W2Z7fbCLSTw][7 Database Paradigms]]
 - [[https://opendistro.github.io/for-elasticsearch/][Open Distro for Elasticsearch]]
 - [[https://malike.github.io/OLAP-Cube-With-Elasticsearch.html][OLAP cube with Elasticsearch]]
 
-** Functional
+*** Functional
 - [[https://medium.com/building-nubank/introducing-fklearn-nubanks-machine-learning-library-part-i-2a1c781035d0][fklearn]]
 
-** DS4A
+*** DS4A
 - [[https://neofeed.com.br/blog/home/no-softbank-a-aposta-em-inteligencia-artificial-comeca-na-base/][Matéria DS4A]]
 
-** Models
+*** Models
 - [[https://www.jstor.org/stable/2584334?seq=1][Estimating a Markov Transition Matrix from Observational Data]]
 - [[https://www.datacamp.com/community/tutorials/markov-chains-python-tutorial][Markov Chains in Python]]
 - [[https://christophergs.com/python/2018/03/25/python-concurrent-futures/][Python Concurrent Futures]]
+** Analytics Engineering
+- [[https://medium.com/datamindedbe][datamindedbe @ Medium]]
+- [[https://medium.com/datamindedbe/why-dbt-will-one-day-be-bigger-than-spark-2225cadbdad0][Why DBT will one day be bigger than Spark]]
+- [[https://blog.ml6.eu/trends-analytic-engineering-with-dbt-or-dataform-252afc8864ec][Trends — Analytic Engineering with Dbt or DataForm]]
 
-* Data Engineering
-** General
+** Data Engineering
+*** General
 - [[https://medium.com/ssense-tech/principled-data-engineering-part-i-architectural-overview-6d4bdf89b657][Principled Data Engineering, Part I: Architectural Overview]]
 - [[https://www.altexsoft.com/blog/datascience/what-is-data-engineering-explaining-data-pipeline-data-warehouse-and-data-engineer-role/][What is Data Engineering: Explaining the Data Pipeline, Data Warehouse, and Data Engineer Role]]
 
-** Google Certification
+*** Google Certification
 - [[https://app.lucidchart.com/lucidchart/0ca44a63-4ea4-4d78-8367-2465512d21be/view?page=5CetVcvv3YSZ#][Data Dossier - Cheat Sheet from Linux Academy]]
 - [[https://cloud.google.com/certification/sample-questions/data-engineer][Sample questions]]
 
@@ -138,6 +151,11 @@
 
 * Life
 - [[https://www.nytimes.com/2008/02/26/science/26tier.html][The Advantages of Closing a Few Doors]]
+** Stoicism
+- [[https://www.amazon.com.br/dp/B01HNJIJB2][The Daily Stoic: 366 Meditations on Wisdom, Perseverance, and the Art of Living]]
+- [[https://www.bakadesuyo.com/2018/05/morning-ritual-2/][This Is The Morning Ritual That Will Make You Happy: 4 Secrets From Stoicism]]
+
+** Buddhism
 
 * Etc
 ** Useful/cool Software
